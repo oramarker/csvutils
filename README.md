@@ -11,10 +11,26 @@ e.g.  '0011' will be treated as a number and conveted to 11.
 
 Here is the CSV plugin come to play.
 
-It is a Excel plugin that streamlines the CSV editing in Excel.
 
 Features:
+
 1. All data are imported as text fields, no automatic conversion;
 2. Fields widh get automatically adjusted;
 3. Header line is automatically frozen;
 4. When editing the file, all the formating : fonts, cells color etc. get saved.
+5. 
+
+Requirments:
+Microsoft Excel 2010+. 
+
+
+
+Installation
+
+1.Download the file: csvutils_macro.xlsm;
+2. In excel, choose File -> Options ->Addin, browse files to pick the above file and pick it;
+3. A new tab 'My Tool Kit' will be shown up;
+4. Cick 'Open CSV' will start your CSV editing journey without the Microsoft hassles.
+
+
+
