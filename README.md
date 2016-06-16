@@ -33,6 +33,9 @@ Installation:
 Known limitation:
 Only default code page is supported.
 
+Contact:
+vinson.zhang@gmail.com
+
 
 
 
