@@ -30,5 +30,11 @@ Installation:
 4. Cick 'Open CSV' will start your CSV editing journey without the Microsoft hassles.
 
 
+Known limitation:
+Only default code page is supported.
+
+
+
+
 
 
